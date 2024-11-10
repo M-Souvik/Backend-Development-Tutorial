@@ -1,0 +1,26 @@
+Welcome to nodejs tutorial
+This is just a file to test the function
+welcome to the test
+my name is souvik
+hello welcom to the tutorial
+welcom to hell
+Welcome to nodejs tutorial
+This is just a file to test the function
+welcome to the test
+my name is souvik
+hello welcom to the tutorial
+welcom to hell
+//break
+Welcome to nodejs tutorial
+This is just a file to test the function
+welcome to the test
+my name is souvik
+hello welcom to the tutorial
+welcom to hell
+Welcome to nodejs tutorial
+This is just a file to test the function
+welcome to the test
+my name is souvik
+hello welcom to the tutorial
+welcom to hell
+//break

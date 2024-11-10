@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/stylesheets/global.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>   
+     <div class="bg-zinc-900 w-full h-screen p-10 text-white">
+        <!-- <a href="/login" class="text-blue-600">Login -></a> -->
+        <h1 class="text-xl font-semibold "> User Login </h1>
+        <hr/>
+        <form action="/login" method="post" class="flex flex-col justify-center gap-5 mx-5">
+            <input type="text" placeholder="User" name="username" class="px-5 py-3 border-2 border-zinc-700 bg-transparent rounded-lg  outline-none"/>
+            <input type="text" placeholder="password" name="password" class="px-5 py-3 border-2 border-zinc-700  bg-transparent rounded-lg outline-none"/>
+            <input type="submit" value="Login" placeholder="Login" class="bg-blue-600 text-white font-bold px-5 py-2 rounded-lg"/>
+        </form>
+     </div>
+</body>
+</html>
